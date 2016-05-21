@@ -66,7 +66,7 @@
 			</ul>
 			<div id="fp_thumbContainer">
 				<div id="fp_thumbScroller">
-					<div class="container">
+					<section class="container">
 						<div class="content">
 							 <figure><a href="#"><img src="images/album1/thumbs/1.jpg" alt="images/album1/1.jpg" class="thumb" /></a> </figure>
 						</div>
@@ -103,7 +103,7 @@
 						<div class="content">
 							<div><a href="#"><img src="images/album1/thumbs/3.jpg" alt="images/album1/3.jpg" class="thumb" /></a></div>
 						</div>
-					</div>
+					</section>
 <div class="container">
 		<div class="content">
 							<div><a href="#"><img src="images/album2/thumbs/1.jpg" alt="images/album1/1.jpg" class="thumb" /></a></div>
