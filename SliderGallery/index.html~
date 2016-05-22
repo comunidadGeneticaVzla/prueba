@@ -62,7 +62,7 @@
 			<ul id="fp_galleryList" class="fp_galleryList">
 				<li>Canções de Elvis Presley</li>
 				<li>Simplesmente Marilyn</li>
-				<li>A Lenda de Bruce Lee</li>
+				
 			</ul>
 			<div id="fp_thumbContainer">
 				<div id="fp_thumbScroller">
@@ -655,7 +655,7 @@
 					}					
 				}
 				
-				//when we stop sliding 
+				
 				//we may want that the closest picture to the center 
 				//of the window stays centered
 				function checkClosest(){
